@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost/iainbukittinggi
+    username: postgres
+    password: bippo
+
+# Opsional
+logging:
+  level:
+    org.springframework.web: DEBUG
